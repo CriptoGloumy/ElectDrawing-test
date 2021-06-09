@@ -61,6 +61,11 @@ a {
 	font-weight: 700;	
 }
 
+.last-news {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
 footer {
 	background: linear-gradient(90deg, #69CB9B 0%, #8bdbb4 100%);
 	width: 100%;
