@@ -36,6 +36,11 @@
 	background-color: #fff!important;
 }
 
+.help-block {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
 .title {
 	text-align: center;
 }
@@ -73,4 +78,33 @@
 
 .help-block_img:hover {
 	transform:  scale(1.07);
+}
+
+.rules-text {
+	text-align: center;
+}
+
+.warning-text {
+	text-align: center;
+}
+
+footer {
+	background: linear-gradient(90deg, #69CB9B 0%, #8bdbb4 100%);
+	width: 100%;
+	padding: 65px;
+}
+
+.footer-text-allrightsprotect {
+	color: #fcfcfc;
+	font-weight: 700;
+	text-align: center;
+}
+
+.footer-text-support {
+	color: #96969a;
+	text-align: center;	
+}
+
+.social {
+	margin-left: 10px;
 }
