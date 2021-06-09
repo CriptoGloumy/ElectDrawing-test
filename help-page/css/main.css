@@ -23,6 +23,17 @@
     justify-content: center;
 }
 
+.Logo-text_first-part {
+	color:  #383841;
+	font-weight: 700;
+}
+
+.Logo-Text_two-part {
+	color: #8bdbb4;
+	margin-left: 5px;
+	font-weight: 700;	
+}
+
 .scale {
 	transition: 0.4s;
 	cursor: pointer;
